@@ -1,2 +1,0 @@
-/* JS Code that was found on HTML events */
-GDPRAccept();confirmDeny();scrollAccept();window.open(this.href); return false;;fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'New Header - Mobile - Footer', eventAction: 'Footer - Privacy policy', eventLabel: 'Footer - Privacy policy' });});;fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'New Header - Mobile - Footer', eventAction: 'Footer - Terms', eventLabel: 'Footer - Terms' });});;modalScroll();

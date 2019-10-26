@@ -1,1 +1,0 @@
-document.write('<span id="FullScreenWrap"></span>');

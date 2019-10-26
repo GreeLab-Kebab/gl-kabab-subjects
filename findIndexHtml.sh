@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ./new-100-webpages-unzipped/
+cd ./100-unzipped-webpages/
 for filename in *; do
   echo $filename
   find "$filename/$filename" -name '*.html' >> tmp

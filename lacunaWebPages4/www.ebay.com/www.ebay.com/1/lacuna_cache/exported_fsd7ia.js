@@ -1,3 +1,0 @@
-
-        /* ssgST: excluded from sampling */
-    

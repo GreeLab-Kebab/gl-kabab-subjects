@@ -1,1 +1,0 @@
-$ssgST=new Date().getTime();

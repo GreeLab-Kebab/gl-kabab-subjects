@@ -1,1 +1,0 @@
-No Content: https://github.githubassets.com/app/assets/modules/github/template-editor.js

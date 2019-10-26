@@ -1,3 +1,0 @@
-
-        switchKnowTab(2);
-    

@@ -1,3 +1,0 @@
-
-        $(".hitshare").click(function(event) {});
-    

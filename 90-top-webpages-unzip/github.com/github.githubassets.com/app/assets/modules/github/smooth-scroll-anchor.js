@@ -1,1 +1,0 @@
-No Content: https://github.githubassets.com/app/assets/modules/github/smooth-scroll-anchor.js

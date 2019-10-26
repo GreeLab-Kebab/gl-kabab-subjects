@@ -1,2 +1,0 @@
-/* JS Code that was found on HTML events */
-changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));changeNav($(this));

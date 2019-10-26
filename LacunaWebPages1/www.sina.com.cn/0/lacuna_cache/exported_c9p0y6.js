@@ -1,1 +1,0 @@
-(sinaads = window.sinaads || []).push({});

@@ -1,1 +1,0 @@
-No Content: webpack:///./src/reddit/icons/svgs/Video/index.tsx

@@ -1,4 +1,0 @@
-
-        function sogouShow() {}
-        function sosoShow() {}
-      

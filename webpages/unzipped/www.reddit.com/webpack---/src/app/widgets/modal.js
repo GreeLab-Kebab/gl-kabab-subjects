@@ -1,1 +1,0 @@
-No Content: webpack:///./src/app/widgets/modal.js

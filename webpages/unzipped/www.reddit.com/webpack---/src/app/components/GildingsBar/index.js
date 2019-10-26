@@ -1,1 +1,0 @@
-No Content: webpack:///./src/app/components/GildingsBar/index.js

@@ -1,1 +1,0 @@
-No Content: webpack:///./src/reddit/components/HeaderImage/index.tsx

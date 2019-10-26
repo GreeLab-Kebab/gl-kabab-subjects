@@ -1,1 +1,0 @@
-No Content: https://g.alicdn.com/secdev/pointman/js/index.js

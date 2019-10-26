@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd 90-top-webpages-unzip
+cd 100-unzipped-webpages
 for file in *
 do
     echo $file >> WebNames.txt

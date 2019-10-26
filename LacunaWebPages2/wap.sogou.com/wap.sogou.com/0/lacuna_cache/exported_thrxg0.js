@@ -1,3 +1,0 @@
-
-        window.PageStartTime = Date.now();
-    

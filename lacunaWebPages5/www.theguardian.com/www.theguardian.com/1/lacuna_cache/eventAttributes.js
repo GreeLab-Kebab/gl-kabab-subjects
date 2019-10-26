@@ -1,2 +1,0 @@
-/* JS Code that was found on HTML events */
-var script=document.createElement('script');script.src='https://interactive.guim.co.uk/thrashers/secure-drop/hashed/main.fe7e9b01.js'; document.body.appendChild(script);;

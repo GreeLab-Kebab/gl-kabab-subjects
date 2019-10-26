@@ -1,5 +1,0 @@
-
-function h(obj){
-    obj.style.behavior='url(#default#homepage)';
-	var a = obj.setHomePage('//www.baidu.com/');
-}

@@ -1,1 +1,0 @@
-QWait('Quizlet.iconUtils',function(){___jdce_logger("lacuna_cache/exported_v8ddgp.js", 26, 76);Quizlet.iconUtils.loadIcon("facebook")})

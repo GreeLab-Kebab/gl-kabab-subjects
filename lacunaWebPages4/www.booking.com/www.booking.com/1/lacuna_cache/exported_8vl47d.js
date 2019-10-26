@@ -1,3 +1,0 @@
-
-        window.lzimg && lzimg('ready')
-    

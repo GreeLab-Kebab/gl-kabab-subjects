@@ -1,1 +1,0 @@
-No Content: https://wwc.alicdn.com/avatar/getAvatar.do?userNick=&_input_charset=UTF-8&width=80&height=80&type=sns

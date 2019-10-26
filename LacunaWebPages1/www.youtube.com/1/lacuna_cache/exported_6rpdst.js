@@ -1,1 +1,0 @@
-window.ShadyDOM = {force: true};window.ShadyCSS = {disableRuntime: true};window.ShadyDOM.preferPerformance = true;window.ShadyDOM.noPatch = true;window.Polymer = (window.Polymer || {});window.Polymer.legacyOptimizations = true;

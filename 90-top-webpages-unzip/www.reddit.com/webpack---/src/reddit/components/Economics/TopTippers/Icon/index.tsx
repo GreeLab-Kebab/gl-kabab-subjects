@@ -1,1 +1,0 @@
-No Content: webpack:///./src/reddit/components/Economics/TopTippers/Icon/index.tsx

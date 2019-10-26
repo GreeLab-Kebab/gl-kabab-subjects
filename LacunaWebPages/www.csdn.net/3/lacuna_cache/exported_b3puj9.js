@@ -1,3 +1,0 @@
-
-        var countArticle = 29;
-    

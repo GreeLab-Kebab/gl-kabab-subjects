@@ -1,1 +1,0 @@
-QWait('Quizlet.iconUtils',function(){___jdce_logger("lacuna_cache/exported_4woitr.js", 26, 75);Quizlet.iconUtils.loadIcon("twitter")})

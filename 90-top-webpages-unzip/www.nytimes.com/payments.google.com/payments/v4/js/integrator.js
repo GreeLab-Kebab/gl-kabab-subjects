@@ -1,1 +1,0 @@
-No Content: https://payments.google.com/payments/v4/js/integrator.js?ss=md

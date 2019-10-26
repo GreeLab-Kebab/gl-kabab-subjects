@@ -1,3 +1,0 @@
-
-        $(".btn-cls").click(function() {});
-    

@@ -1,3 +1,0 @@
-
-                window.webpackManifest_IMDbConsumerSiteFooterFeature = {}
-            

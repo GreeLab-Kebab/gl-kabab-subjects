@@ -1,1 +1,0 @@
-No Content: webpack:///./src/telemetry/eventSchemas/category_header_types.js

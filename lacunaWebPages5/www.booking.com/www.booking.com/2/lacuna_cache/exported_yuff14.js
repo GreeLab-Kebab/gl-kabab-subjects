@@ -1,3 +1,0 @@
-
-        var lzimg = function(state) {};
-    

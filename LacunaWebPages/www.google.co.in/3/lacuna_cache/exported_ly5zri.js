@@ -1,1 +1,0 @@
-window.gbar&&gbar.up&&gbar.up.aop&&gbar.up.aop('cns','cns',[]);

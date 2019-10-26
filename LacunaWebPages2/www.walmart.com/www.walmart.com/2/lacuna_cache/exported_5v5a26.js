@@ -1,3 +1,0 @@
-
-        if (window.webappStart) webappStart();
-    

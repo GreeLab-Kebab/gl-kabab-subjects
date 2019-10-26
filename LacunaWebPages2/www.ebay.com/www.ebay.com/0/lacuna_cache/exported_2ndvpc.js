@@ -1,3 +1,0 @@
-
-        $ssgST = new Date().getTime();
-    

@@ -1,2 +1,0 @@
-/* JS Code that was found on HTML events */
-if(window.homepage.regily_variation === 'regily'){ window.location.hash = '#regily'; return false;};if(window.homepage.regily_variation === 'regily'){ window.location.hash = '#regily'; return false;};

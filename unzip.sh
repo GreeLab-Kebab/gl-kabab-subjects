@@ -7,7 +7,7 @@ unzip_d () {
     rm -rf "$zipfile"
 }
 
-for file in new-100-webpages-unzipped/*
+for file in 100-unzipped-webpages/*
 do
     unzip_d $file
 done

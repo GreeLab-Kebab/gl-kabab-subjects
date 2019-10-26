@@ -1,1 +1,0 @@
-QWait('Quizlet.iconUtils',function(){___jdce_logger("lacuna_cache/exported_m5q3yy.js", 26, 77);Quizlet.iconUtils.loadIcon("instagram")})

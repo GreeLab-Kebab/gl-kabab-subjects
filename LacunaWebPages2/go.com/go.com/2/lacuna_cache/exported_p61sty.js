@@ -1,3 +1,0 @@
-
-        Disney.adSystem = 'dfp'
-    

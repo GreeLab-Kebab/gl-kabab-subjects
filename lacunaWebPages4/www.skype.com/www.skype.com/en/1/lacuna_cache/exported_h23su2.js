@@ -1,3 +1,0 @@
-
-            /* document.pageLoaded = true; */
-        

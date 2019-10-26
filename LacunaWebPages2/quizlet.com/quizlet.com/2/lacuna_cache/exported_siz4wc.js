@@ -1,1 +1,0 @@
-QWait('Quizlet.iconUtils',function(){___jdce_logger("lacuna_cache/exported_siz4wc.js", 26, 74);Quizlet.iconUtils.loadIcon("shield")})

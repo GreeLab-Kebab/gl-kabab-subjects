@@ -1,1 +1,0 @@
-No Content: webpack:///./src/telemetry/eventSchemas/user_types.js
