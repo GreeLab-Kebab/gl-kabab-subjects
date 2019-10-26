@@ -1,32 +1,32 @@
 # Green Lab - Kebab Team - Subject Selection
 
-This repository is part of the project ``An Empirical Analysis of JavaScript Dead Code in the Wild``, described in [Kebab Team  Base Repository](https://github.com/GreeLab-Kebab/gl-kebab). This repository contains the 
-
-## ToDo
-
-- [ ] Describe package structure.
-- [ ] Include data analysis package.
-- [ ] Write Prerequisites.
-- [ ] Write instalation process.
-- [ ] Write execution process.
-- [ ] Organize output zips in subject/optimization-level?
+This repository is part of the project ``An Empirical Analysis of JavaScript Dead Code in the Wild``, described in [Kebab Team  Base Repository](https://github.com/GreeLab-Kebab/gl-kebab). This repository contains a list of 100 mobile webpages, selected from the tranco list (https://tranco-list.eu/). These 100 webpages were dowloaded using the ``[Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en)`` chrome extension . These downloaded webpages were ran on a tool called LavunaV2 which strips the JavaScript dead code from the files using a combinition of different analysers and optimisation levels. For the purpose of this experiment only dynamic and tajs (Type analyser for JavaScript) analysers were considered as they result in highest accuracy and F-score as compared to other analysers. Then all the subjects were tested for all four optimisation levels offered by LacunaV2. Out of 100 mobile webpages, only 16 subjects were selected as they succeeded to generate results for both analysers and all optimisation levels.
 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for experiment replication purpose.
 
+The 100 mobile webpages were downloaded using the settings present in this [figure]()
+
+
+
 ### Prerequisites
 
-*ToDo*
+1. Clone the LacunaV2 tool from [this repository](https://github.com/GreeLab-Kebab/LacunaV2).
+2. Install [xdotool](https://github.com/jordansissel/xdotool). It fakes the mouse and  keyboard input and it tool is optional to install.
 
 ### Instalation
 
-*ToDo*
+Clone the folowing repository for subject selection:
+
+```Console
+$ git clone https://github.com/GreeLab-Kebab/gl-kebab-subjects   
+```
 
 ### Execution
 
-*ToDo*
+
 
 ## Authors 
 
