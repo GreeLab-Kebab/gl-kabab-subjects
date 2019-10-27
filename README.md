@@ -1,13 +1,13 @@
 # Green Lab - Kebab Team - Subject Selection
 
-This repository is part of the project ``An Empirical Analysis of JavaScript Dead Code in the Wild``, described in [Kebab Team  Base Repository](https://github.com/GreeLab-Kebab/gl-kebab). This repository contains a list of 100 mobile webpages, selected from the tranco list (https://tranco-list.eu/). These 100 webpages were dowloaded using the [Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en) chrome extension . These downloaded webpages were ran on a tool called [LavunaV2](https://github.com/GreeLab-Kebab/LacunaV2) which strips the JavaScript dead code from the webpages using a combinition of different analysers and optimisation levels. For the purpose of this experiment only dynamic and tajs (Type analyser for JavaScript) analysers were considered as they result in highest accuracy and F-score as compared to other analysers. Then all the subjects were tested for all four optimisation levels offered by LacunaV2. Out of 100 mobile webpages, only 16 subjects were selected as they succeeded to generate results for both analysers and all optimisation levels.
+This repository is part of the project ``An Empirical Analysis of JavaScript Dead Code in the Wild``, described in [Kebab Team  Base Repository](https://github.com/GreeLab-Kebab/gl-kebab). It contains a list of 100 mobile webpages, selected from the [tranco list](https://tranco-list.eu/), which were dowloaded using the [Save All Resources](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en) chrome extension . These downloaded webpages were run on a tool called [LacunaV2](https://github.com/GreeLab-Kebab/LacunaV2) which strips the JavaScript dead code from the webpages using a combinition of different analysers and optimisation levels (0-4). For the purpose of this experiment only dynamic and tajs (Type analyser for JavaScript) analysers were considered as they result in highest accuracy and F-score as compared to other analysers. Later, the downloaded subjects were tested for all four optimisation levels offered by LacunaV2. Out of 100 mobile webpages, only 16 subjects were selected as they succeeded to generate results for both analysers and all optimisation levels.
 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for experiment replication purpose.
 
-The 100 mobile webpages were downloaded using the settings shown in this [figure](https://user-images.githubusercontent.com/35984622/67622865-000c6e00-f81f-11e9-8d10-e55122d1d652.png)
+The 100 mobile webpages were downloaded using the settings shown in this [figure.](https://user-images.githubusercontent.com/35984622/67622865-000c6e00-f81f-11e9-8d10-e55122d1d652.png)
 
 ### Prerequisites
 
@@ -22,13 +22,13 @@ $ git clone https://github.com/GreeLab-Kebab/gl-kebab-subjects
 ```
 
 ### Execution
-1. Download the mobile webpages selected from the tranco list, using the ```Save All Resources``` chrome extension. This step is optional as [100 mobile webpages](https://github.com/GreeLab-Kebab/gl-kebab-subjects/tree/master/100-unzipped-webpages) have already been downloaded based on [these](https://user-images.githubusercontent.com/35984622/67622865-000c6e00-f81f-11e9-8d10-e55122d1d652.png) settings. To automatically download the webpage [this](https://github.com/GreeLab-Kebab/gl-kebab-subjects/blob/master/download.sh) shell script was used.
+1. Download the mobile webpages selected from the tranco list, using the ```Save All Resources``` chrome extension. This step is optional as [100 mobile webpages](https://github.com/GreeLab-Kebab/gl-kebab-subjects/tree/master/100-unzipped-webpages) have already been downloaded based on [these](https://user-images.githubusercontent.com/35984622/67622865-000c6e00-f81f-11e9-8d10-e55122d1d652.png) settings. To automatically download the webpage the [download.sh](https://github.com/GreeLab-Kebab/gl-kebab-subjects/blob/master/download.sh) script was used.
 
 2. Unzip the downloaded webpages. This step is also optional, as the unzipped 100 webpages can be found [here](https://github.com/GreeLab-Kebab/gl-kebab-subjects/tree/master/100-unzipped-webpages).
 
-3. LacunaV2 requires an entry html file, which can have different names (index.html, home.html). Run [this](https://github.com/GreeLab-Kebab/gl-kebab-subjects/blob/master/findIndexHtml.sh) script on the downloaded webpages to find the entry html files.
+3. LacunaV2 requires an entry html file, which can have different names (index.html, home.html). Run [findIndexHtml.sh](https://github.com/GreeLab-Kebab/gl-kebab-subjects/blob/master/findIndexHtml.sh) script on the downloaded webpages to find the entry html files.
 
-4. Run Lacuna using [this](https://github.com/GreeLab-Kebab/gl-kebab-subjects/blob/master/runLacuna.sh) script and pass the file genereted in the previous step as first argument and path to Lacuna directory (saved on your computer) as a second argument. After LacunaV2 finishes, the result will be saved in the [lacunaWebPages](https://github.com/GreeLab-Kebab/gl-kebab-subjects/tree/master/lacunaWebPages) directory.
+4. Run Lacuna using [runLacuna.sh](https://github.com/GreeLab-Kebab/gl-kebab-subjects/blob/master/runLacuna.sh) script and pass the file genereted in the previous step as first argument and path to Lacuna directory (saved on your computer) as a second argument. After LacunaV2 finishes, the result will be saved in the [lacunaWebPages](https://github.com/GreeLab-Kebab/gl-kebab-subjects/tree/master/lacunaWebPages) directory.
 
 ## Issues
 
